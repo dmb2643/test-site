@@ -80,6 +80,7 @@ nav {
 
 .section-description__icon-box {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 
@@ -108,4 +109,28 @@ img {
 .section-description__icon-box img:last-child {
     margin-right: 0px;
 }
+
+/* .section-description__text-box {
+    text-align: center;
+} */
+
+.section-description__text-box h2 {
+    margin: 0;
+    font-size: 96px;
+    text-align: center;
+    
+}
+
+.section-description__text-box h2 span {
+    color: #F15B40;
+}
+
+.section-description__text-box p {
+    font-size: 18px;
+    margin: 0px;
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+} 
+
 
